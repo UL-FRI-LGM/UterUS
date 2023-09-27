@@ -1,0 +1,258 @@
+Volume name;Contains annotation;Operator #;Medical center #;US machine model;Group G/M/I/RIF
+04_01;Y;1;4;GE Voluson E8;G
+04_02;Y;1;4;GE Voluson E8;G
+04_03;Y;1;4;GE Voluson S8;G
+04_04;Y;1;4;GE Voluson S8;G
+04_05;Y;1;4;GE Voluson S8;G
+04_06;Y;1;4;GE Voluson S8;G
+04_07;Y;1;4;GE Voluson S8;G
+04_08;Y;1;4;GE Voluson S8;G
+04_09;Y;1;4;GE Voluson S8;G
+04_10;Y;1;4;GE Voluson S8;G
+04_11;Y;1;4;GE Voluson S8;G
+04_12;Y;1;4;GE Voluson S8;G
+04_13;Y;1;4;GE Voluson S8;G
+04_14;Y;1;4;GE Voluson E6;G
+04_15;Y;1;4;GE Voluson E6;G
+04_16;Y;1;4;GE Voluson E6;G
+04_17;Y;1;4;GE Voluson E6;G
+04_18;Y;1;4;GE Voluson E6;G
+04_19;Y;1;4;GE Voluson E6;I
+04_20;Y;1;4;GE Voluson E6;G
+04_21;Y;1;4;GE Voluson E6;G
+04_22;Y;1;4;GE Voluson E6;G
+04_23;Y;1;4;GE Voluson E8;G
+04_24;Y;1;4;GE Voluson E8;G
+04_25;Y;1;4;GE Voluson E8;G
+04_26;Y;1;4;GE Voluson E8;G
+04_27;N;1;4;GE Voluson E8;G
+04_28;Y;1;4;GE Voluson E8;G
+04_29;Y;1;4;GE Voluson E8;I
+04_30;Y;1;4;GE Voluson E8;G
+04_31;Y;1;4;GE Voluson E8;G
+04_32;Y;1;4;GE Voluson E8;I
+04_33;N;1;4;GE Voluson E8;G
+04_34;Y;1;4;GE Voluson E8;G
+04_35;Y;1;4;GE Voluson E8;G
+04_36;N;1;4;GE Voluson E8;G
+04_37;N;1;4;GE Voluson E8;G
+04_38;N;1;4;GE Voluson E8;G
+04_39;Y;1;4;GE Voluson E8;G
+04_40;Y;1;4;GE Voluson E8;G
+04_41;Y;1;4;GE Voluson E8;G
+04_42;Y;1;4;GE Voluson E8;I
+04_43;Y;1;4;GE Voluson E8;G
+04_44;Y;1;4;GE Voluson E8;G
+04_45;N;1;4;GE Voluson E8;G
+04_46;Y;1;4;GE Voluson E8;G
+04_47;Y;1;4;GE Voluson E8;G
+04_48;Y;1;4;GE Voluson E8;G
+04_49;Y;1;4;GE Voluson E8;G
+04_50;N;1;4;GE Voluson E8;G
+12_01;N;;12;;
+12_02;N;;12;;
+12_03;N;;12;;
+12_04;N;;12;;
+12_05;N;;12;;
+12_06;N;;12;;
+12_07;N;;12;;
+12_08;N;;12;;
+12_09;N;;12;;
+12_10;N;;12;;
+12_11;N;;12;;
+12_12;N;;12;;
+12_13;N;;12;;
+12_14;N;;12;;
+12_15;N;;12;;
+12_16;N;;12;;
+12_17;N;;12;;
+12_18;N;;12;;
+12_19;N;;12;;
+12_20;N;;12;;
+13_01;Y;2;13;GE Voluson E8;I
+13_02;Y;2;13;GE Voluson S10;RIF
+13_03;Y;2;13;GE Voluson S10;I
+13_04;Y;2;13;GE Voluson S10;I
+13_05;Y;2;13;GE Voluson S10;G
+13_06;Y;2;13;GE Voluson E8;G
+13_07;N;2;13;GE Voluson S10;I
+13_08;Y;2;13;GE Voluson S10;I
+13_09;Y;2;13;GE Voluson E8;G
+13_10;Y;2;13;GE Voluson S10;I
+13_11;Y;2;13;GE Voluson S10;I
+13_12;Y;2;13;GE Voluson S10;G
+13_13;Y;2;13;GE Voluson E8;I
+13_14;Y;2;13;GE Voluson E8;I
+13_15;Y;2;13;GE Voluson S10;G
+13_16;Y;2;13;GE Voluson S10;I
+13_17;N;2;13;GE Voluson S10;G
+13_18;Y;2;13;GE Voluson S10;G
+13_19;Y;2;13;GE Voluson E8;G
+13_20;Y;2;13;GE Voluson E8;I
+13_21;Y;2;13;GE Voluson S10;I
+13_22;Y;2;13;GE Voluson E8;I
+13_23;Y;2;13;GE Voluson E8;G
+13_24;Y;2;13;GE Voluson E8;RIF
+13_25;Y;2;13;GE Voluson S10;I
+13_26;Y;2;13;GE Voluson S10;G
+13_27;Y;2;13;GE Voluson S10;G
+13_28;Y;2;13;GE Voluson S10;RIF
+13_29;Y;2;13;GE Voluson S10;I
+13_30;Y;2;13;GE Voluson S10;I
+13_31;Y;2;13;GE Voluson S10;I
+13_32;Y;2;13;GE Voluson S10;RIF
+13_33;N;2;13;GE Voluson S10;G
+13_34;Y;2;13;GE Voluson S10;M
+13_35;Y;2;13;GE Voluson E8;M
+13_36;Y;2;13;GE Voluson S10;I
+13_37;Y;2;13;GE Voluson E8;I
+13_38;Y;2;13;GE Voluson S10;G
+13_39;Y;2;13;GE Voluson S10;I
+13_40;Y;2;13;GE Voluson S10;I
+13_41;Y;2;13;GE Voluson S10;G
+13_42;Y;2;13;GE Voluson S10;I
+13_44;Y;2;13;GE Voluson S10;I
+13_45;Y;2;13;GE Voluson S10;I
+13_46;Y;2;13;GE Voluson S10;G
+13_47;Y;2;13;GE Voluson S10;I
+14_01;N;3;14;GE Voluson Swift Bt20;G
+14_02;N;3;14;GE Voluson Swift Bt20;I
+14_03;N;3;14;GE Voluson Swift Bt21;I
+14_04;N;3;14;GE Voluson Swift Bt22;G
+14_05;N;3;14;GE Voluson Swift Bt23;I
+14_06;N;3;14;GE Voluson Swift Bt24;I
+14_07;N;3;14;GE Voluson Swift Bt25;I
+14_08;N;3;14;GE Voluson Swift Bt26;I
+14_09;N;3;14;GE Voluson Swift Bt27;G
+14_10;N;3;14;GE Voluson Swift Bt28;G
+14_11;N;3;14;GE Voluson Swift Bt29;I
+14_12;N;3;14;GE Voluson Swift Bt30;I
+14_13;N;3;14;GE Voluson Swift Bt31;G
+14_14;N;3;14;GE Voluson Swift Bt32;G
+14_15;N;3;14;GE Voluson Swift Bt33;I
+14_16;N;3;14;GE Voluson Swift Bt34;I
+14_17;N;3;14;GE Voluson Swift Bt35;I
+14_18;N;3;14;GE Voluson Swift Bt36;G
+14_19;N;3;14;GE Voluson Swift Bt37;I
+14_20;N;3;14;GE Voluson Swift Bt38;I
+14_21;N;3;14;GE Voluson Swift Bt39;G
+14_22;N;3;14;GE Voluson Swift Bt40;I
+14_23;N;3;14;GE Voluson Swift Bt41;I
+14_24;N;3;14;GE Voluson Swift Bt42;I
+14_25;N;3;14;GE Voluson Swift Bt43;I
+14_26;N;3;14;GE Voluson Swift Bt44;G
+14_27;N;3;14;GE Voluson Swift Bt45;I
+14_28;N;3;14;GE Voluson Swift Bt46;G
+14_29;N;3;14;GE Voluson Swift Bt47;G
+14_30;N;3;14;GE Voluson Swift Bt48;G
+14_31;N;3;14;GE Voluson Swift Bt49;G
+14_32;N;3;14;GE Voluson Swift Bt50;I
+14_33;N;3;14;GE Voluson Swift Bt51;I
+14_34;N;3;14;GE Voluson Swift Bt52;G
+14_35;N;3;14;GE Voluson Swift Bt53;G
+14_36;N;3;14;GE Voluson Swift Bt54;G
+14_37;N;3;14;GE Voluson Swift Bt55;G
+14_38;N;3;14;GE Voluson Swift Bt56;G
+14_39;N;3;14;GE Voluson Swift Bt57;G
+14_40;N;3;14;GE Voluson Swift Bt58;G
+14_41;N;3;14;GE Voluson Swift Bt59;G
+14_42;N;3;14;GE Voluson Swift Bt60;G
+14_43;N;3;14;GE Voluson Swift Bt61;G
+14_44;N;3;14;GE Voluson Swift Bt62;G
+14_45;N;3;14;GE Voluson Swift Bt63;I
+14_46;N;3;14;GE Voluson Swift Bt64;I
+14_47;N;3;14;GE Voluson Swift Bt65;I
+14_48;N;3;14;GE Voluson Swift Bt66;I
+14_49;N;3;14;GE Voluson Swift Bt67;I
+14_50;N;3;14;GE Voluson Swift Bt68;I
+22_01;Y;4;22;GE Voluson E8;G
+22_02;Y;4;22;GE Voluson E8;G
+22_03;Y;4;22;GE Voluson E8;G
+22_04;Y;4;22;GE Voluson E8;I
+22_05;Y;4;22;GE Voluson E8;G
+22_07;Y;4;22;GE Voluson E8;I
+22_08;Y;4;22;GE Voluson E8;G
+22_09;Y;4;22;GE Voluson E8;M
+22_10;Y;4;22;GE Voluson E8;G
+22_11;Y;4;22;GE Voluson E8;I
+22_12;Y;4;22;GE Voluson E8;G
+22_13;Y;4;22;GE Voluson E8;G
+22_14;Y;4;22;GE Voluson E8;G
+22_15;Y;4;22;GE Voluson E8;I
+22_16;Y;4;22;GE Voluson E8;I
+22_17;Y;4;22;GE Voluson E8;G
+22_18;Y;4;22;GE Voluson E8;G
+22_19;Y;4;22;GE Voluson E8;G
+22_20;Y;4;22;GE Voluson E8;I
+22_21;Y;4;22;GE Voluson E8;G
+22_22;Y;4;22;GE Voluson E8;G
+22_23;Y;4;22;GE Voluson E8;G
+22_24;Y;4;22;GE Voluson E8;I
+22_25;Y;4;22;GE Voluson E8;M
+22_26;Y;4;22;GE Voluson E8;G
+22_27;Y;4;22;GE Voluson E8;I
+22_28;Y;4;22;GE Voluson E8;I
+22_30;N;4;22;GE Voluson E8;I
+22_31;Y;4;22;GE Voluson E8;G
+22_32;Y;4;22;GE Voluson E8;I
+22_33;Y;4;22;GE Voluson E8;G
+22_34;Y;4;22;GE Voluson E8;I
+22_35;Y;4;22;GE Voluson E8;I
+22_36;Y;4;22;GE Voluson E8;I
+22_37;Y;4;22;GE Voluson E8;G
+22_38;Y;4;22;GE Voluson E8;G
+22_39;N;;;;
+22_40;Y;;;;
+22_41;Y;;;;
+22_42;Y;;;;
+22_43;Y;;;;
+22_44;Y;;;;
+22_45;Y;;;;
+22_46;Y;;;;
+22_47;Y;;;;
+22_48;Y;;;;
+22_49;Y;;;;
+22_50;Y;;;;
+22_51;Y;;;;
+22_52;Y;;;;
+22_53;Y;;;;
+22_54;Y;;;;
+22_55;Y;;;;
+22_56;Y;;;;
+22_57;Y;;;;
+22_58;Y;;;;
+22_59;Y;;;;
+23_01;N;;;;
+23_02;N;;;;
+23_04;N;;;;
+23_05;N;;;;
+23_07;N;;;;
+23_10;N;;;;
+23_13;N;;;;
+23_14;N;;;;
+23_15;N;;;;
+23_17;N;;;;
+23_18;N;;;;
+23_20;N;;;;
+23_21;N;;;;
+23_22;N;;;;
+23_23;N;;;;
+23_24;N;;;;
+23_25;N;;;;
+23_26;N;;;;
+23_28;N;;;;
+23_29;N;;;;
+23_32;N;;;;
+23_34;N;;;;
+23_35;N;;;;
+23_36;N;;;;
+23_37;N;;;;
+23_40;N;;;;
+23_41;N;;;;
+23_42;N;;;;
+23_43;N;;;;
+23_44;N;;;;
+23_46;N;;;;
+;;;;;
+;;;;;
+;;;;;
