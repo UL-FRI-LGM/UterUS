@@ -9,10 +9,10 @@ The dataset consists of three main directories with volumes in [Neuroimaging Inf
 
 - [**annotated_volumes**](dataset/annotated_volumes/): 141 files representing _ultrasound volumes_ of the uterus that have corresponding segmentation annotations
 - [**annotations**](dataset/annotations/): 141 _segmentation volumes_ corresponding to the annotated volumes
-- [**volumes_without_annotations**](dataset/volumes_without_annotations/): 113 _ultrasound volumes_ without associated annotations
+- [**volumes_without_annotations**](dataset/volumes_without_annotations/): 174 _ultrasound volumes_ without associated annotations
   
+The volumes are named by the anonimized number of the medical center and the number of the sample (e.g. _04\_12.nii.gz_ comes from medical center number 4 and sample number 12). 
 The [info.csv](dataset/info.csv) file provides information about the volumes, including:
-- Anonymized medical center number
 - Ultrasound machine model
 - Group classification (G - general population, M - consecutive miscarriages, I - unexplained infertility, RIF - recurrent implantation failure)
   
