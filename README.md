@@ -1,5 +1,12 @@
 # UterUS: An Annotated Dataset of Uteri in Volumetric Ultrasound Data
 ### License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+**Eva Boneš¹, Marco Gergolet², Ciril Bohak¹³, Žiga Lesar¹, and Matija Marolt¹**
+1. University of Ljubljana, Faculty of Computer and Information Science, Večna pot 113, Ljubljana, 1000, Slovenia
+2. University of Ljubljana, Faculty of Medicine, Vrazov trg 2, Ljubljana, 1000, Slovenia
+3. King Abdullah University of Science and Technology, Visual Computing Center, Thuwal, 23955-6900, Saudi Arabia
+
+
 This repository contains the UterUS dataset, a collection of 3D ultrasound volumes of the uterus with manual annotations of uterine cavity. It serves as a resource for researchers working on uterine morphology analysis and ultrasound/medical image analysis. It also includes the nnUNet segmentation models trained on the presented dataset.
 
 ![Example of two volumes in Slicer3D.](sources/sample.png "Example of one of the volumes with the segmented uterine cavity, shown in Slicer3D.")
@@ -42,10 +49,10 @@ Examinations were conducted during the proliferative phase of the menstrual cycl
 While most volumes were acquired using General Electric (GE) ultrasound machines, a portion of the data originates from Samsung devices, making the dataset multi-device. GE volumes were converted to the NIfTI format using the [Slicer3D](https://www.slicer.org/) extension [SlicerHeart](https://www.slicer.org/wiki/Documentation/4.5/Extensions/SlicerHeart). Samsung volumes were converted with a dedicated tool developed by their R&D team.
 
 ### Acknowledgments
-We thank the gynecologists from the following institutions for providing the data: Gynecology Clinic Gergolet, Alma Mater Studiorum - University of Bologna, University of Naples, Imperial College London, Complutense University of Madrid, Clinica Victoria in Malaga, the Gynecology Clinic at the University of Udine, the Gynecology Clinic at the University of Bari, and the Gynecology Department at the General Hospital of Forli.
+We thank the gynecologists from the following institutions for providing the data: Gynecology Clinic Gergolet, Miguel Hernández University of Elche, Alma Mater Studiorum - University of Bologna, Gynecology Clinic at the University of Bari, Complutense University of Madrid, University of Naples, Gynecology Clinic at the University of Udine, University of Genova, Gynecology Department at the General Hospital of Forli, Imperial College London, General Hospital in Prague, University of Trieste, University of Tübingen, Aristotle University of Thessaloniki, and Clinica Victoria in Malaga.
 We also thank Michele Losappio, Marco De Pasquale and Samsung's R&D team for all the help with converting their volumes for our usage. 
 
-## Segmentation model
+## Segmentation Model
 
 Using the presented dataset, we trained a [nnUNet model](https://www.nature.com/articles/s41592-020-01008-z) for segmentation of the uterine region. You can get the trained models in 2D and 3D from [this link](https://drive.google.com/file/d/1lxHyA_UTpbhTXRuhjSMjuAFyApH9DOHo/view?usp=drive_link). 
 
@@ -59,3 +66,15 @@ You can run the prediction yourself after setting up nnUNet as presented in [the
 nnUNetv2_predict -d Datasetxxx_name -i INPUT_FOLDER -o OUTPUT_FOLDER -tr nnUNetTrainer -c 3d_fullres -p nnUNetPlans
 ```
 or changing *3d_fullres* into *2d* for running the 2D model prediction (though as expected, it produces worse results).
+
+## Cite Our Work
+
+If you find this dataset useful, please cite our work. The paper is currently under revision; we will update the Bibtex entry once it is published.
+```bibtex
+@article{bones2024,
+  author       = {Boneš, Eva and Gergolet, Marco and Bohak, Ciril and Lesar, Žiga and Marolt, Matija},
+  title        = {Automatic Segmentation and Alignment of Uterine Shapes from 3D Ultrasound Data},
+  journal      = {Under revision},
+  year         = 2024
+}
+```
