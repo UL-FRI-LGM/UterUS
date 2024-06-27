@@ -71,10 +71,13 @@ or changing *3d_fullres* into *2d* for running the 2D model prediction (though a
 
 If you find this dataset useful, please cite our work. The paper is currently under revision; we will update the Bibtex entry once it is published.
 ```bibtex
-@article{bones2024,
-  author       = {Boneš, Eva and Gergolet, Marco and Bohak, Ciril and Lesar, Žiga and Marolt, Matija},
-  title        = {Automatic Segmentation and Alignment of Uterine Shapes from 3D Ultrasound Data},
-  journal      = {Under revision},
-  year         = 2024
+@article{bones2024automatic,
+	title        = {{Automatic Segmentation and Alignment of Uterine Shapes from 3D Ultrasound Data}},
+	author       = {Eva Bone\v{s} and Marco Gergolet and Ciril Bohak and \v{Z}iga Lesar and Matija Marolt},
+	year         = 2024,
+	journal      = {{Computers in Biology and Medicine}},
+	volume       = 178,
+	pages        = 108794,
+	doi          = {https://doi.org/10.1016/j.compbiomed.2024.108794},
 }
 ```
