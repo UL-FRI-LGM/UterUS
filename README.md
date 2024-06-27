@@ -69,7 +69,7 @@ or changing *3d_fullres* into *2d* for running the 2D model prediction (though a
 
 ## Cite Our Work
 
-If you find this dataset useful, please cite our work. The paper is currently under revision; we will update the Bibtex entry once it is published.
+If you find this dataset useful, please cite our work.
 ```bibtex
 @article{bones2024automatic,
 	title        = {{Automatic Segmentation and Alignment of Uterine Shapes from 3D Ultrasound Data}},
